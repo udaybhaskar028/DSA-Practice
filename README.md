@@ -7,6 +7,7 @@ Daily DSA Practice
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
@@ -15,4 +16,5 @@ Daily DSA Practice
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
