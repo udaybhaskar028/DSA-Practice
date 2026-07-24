@@ -10,6 +10,7 @@ Daily DSA Practice
 | [0268-missing-number](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -28,6 +29,7 @@ Daily DSA Practice
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
