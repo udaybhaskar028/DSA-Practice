@@ -6,6 +6,7 @@ Daily DSA Practice
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0283-move-zeroes) |
@@ -19,6 +20,7 @@ Daily DSA Practice
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -37,5 +39,6 @@ Daily DSA Practice
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
