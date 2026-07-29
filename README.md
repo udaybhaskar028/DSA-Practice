@@ -7,6 +7,7 @@ Daily DSA Practice
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0283-move-zeroes) |
@@ -26,6 +27,7 @@ Daily DSA Practice
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -40,5 +42,14 @@ Daily DSA Practice
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
