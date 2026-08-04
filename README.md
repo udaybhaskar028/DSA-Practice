@@ -15,6 +15,7 @@ Daily DSA Practice
 | [0283-move-zeroes](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/udaybhaskar028/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -26,6 +27,7 @@ Daily DSA Practice
 | [0075-sort-colors](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/udaybhaskar028/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,4 +62,8 @@ Daily DSA Practice
 | ------- |
 | [0053-maximum-subarray](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/udaybhaskar028/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
