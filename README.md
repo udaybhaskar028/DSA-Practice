@@ -6,6 +6,7 @@ Daily DSA Practice
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -24,6 +25,7 @@ Daily DSA Practice
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0283-move-zeroes) |
