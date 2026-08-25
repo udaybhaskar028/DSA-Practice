@@ -74,4 +74,16 @@ Daily DSA Practice
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/udaybhaskar028/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/udaybhaskar028/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/udaybhaskar028/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
