@@ -11,6 +11,7 @@ Daily DSA Practice
 | [0075-sort-colors](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0268-missing-number) |
@@ -30,6 +31,7 @@ Daily DSA Practice
 | [0075-sort-colors](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/udaybhaskar028/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -42,6 +44,7 @@ Daily DSA Practice
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 ## Bit Manipulation
