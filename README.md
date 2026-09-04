@@ -40,6 +40,7 @@ Daily DSA Practice
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0268-missing-number) |
@@ -84,6 +85,7 @@ Daily DSA Practice
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/udaybhaskar028/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
@@ -95,4 +97,8 @@ Daily DSA Practice
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/udaybhaskar028/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
