@@ -8,30 +8,20 @@ public class Solution {
             s1arr[s1.charAt(i) - 'a']++;
             s2arr[s2.charAt(i) - 'a']++;
         }
-
-        int count = 0;
-        for (int i = 0; i < 26; i++) {
-            if (s1arr[i] == s2arr[i])
-                count++;
-        }
-
         for (int i = 0; i < s2.length() - s1.length(); i++) {
-            int r = s2.charAt(i + s1.length()) - 'a', l = s2.charAt(i) - 'a';
-            if (count == 26)
+            if (matches(s1arr, s2arr))
                 return true;
-            s2arr[r]++;
-            if (s2arr[r] == s1arr[r]) {
-                count++;
-            } else if (s2arr[r] == s1arr[r] + 1) {
-                count--;
-            }
-            s2arr[l]--;
-            if (s2arr[l] == s1arr[l]) {
-                count++;
-            } else if (s2arr[l] == s1arr[l] - 1) {
-                count--;
-            }
+            s2arr[s2.charAt(i + s1.length()) - 'a']++;
+            s2arr[s2.charAt(i) - 'a']--;
         }
-        return count == 26;
+        return matches(s1arr, s2arr);
+    }
+
+    public boolean matches(int[] s1arr, int[] s2arr) {
+        for (int i = 0; i < 26; i++) {
+            if (s1arr[i] != s2arr[i])
+                return false;
+        }
+        return true;
     }
 }
