@@ -6,6 +6,7 @@ Daily DSA Practice
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0075-sort-colors) |
@@ -88,6 +89,7 @@ Daily DSA Practice
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -110,4 +112,8 @@ Daily DSA Practice
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/udaybhaskar028/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
