@@ -38,6 +38,7 @@ Daily DSA Practice
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0283-move-zeroes) |
+| [0567-permutation-in-string](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/udaybhaskar028/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@ Daily DSA Practice
 | [0169-majority-element](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -93,6 +95,7 @@ Daily DSA Practice
 | [0125-valid-palindrome](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/udaybhaskar028/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/udaybhaskar028/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
@@ -108,6 +111,7 @@ Daily DSA Practice
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
