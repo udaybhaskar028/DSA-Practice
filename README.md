@@ -90,6 +90,7 @@ Daily DSA Practice
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0547-number-of-provinces) |
 ## String
 |  |
 | ------- |
@@ -140,4 +141,16 @@ Daily DSA Practice
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0141-linked-list-cycle) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
