@@ -53,6 +53,7 @@ Daily DSA Practice
 | [0141-linked-list-cycle](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0567-permutation-in-string) |
 ## Binary Search
@@ -65,12 +66,14 @@ Daily DSA Practice
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -101,6 +104,7 @@ Daily DSA Practice
 | [0014-longest-common-prefix](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0389-find-the-difference](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/udaybhaskar028/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
