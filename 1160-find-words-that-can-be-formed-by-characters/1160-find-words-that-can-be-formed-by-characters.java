@@ -10,25 +10,23 @@ class Solution {
         int result = 0;
 
         for (String word : words) {
-            // Step 2: a word longer than chars can never fit, so skip it
-            if (word.length() > chars.length()) {
-                continue;
-            }
-
-            // Step 3: fresh copy of the counts for this word
-            int[] available = charCount.clone();
-
-            // Step 4: use up one letter at a time; stop at the first shortage
-            boolean ok = true;
+            // Step 2: count letters in this word
+            int[] wordCount = new int[26];
             for (char ch : word.toCharArray()) {
                 int index = ch - 'a';
-                available[index]--;
-                if (available[index] < 0) {
+                wordCount[index]++;
+            }
+
+            // Step 3: check every letter: does the word need more than chars has?
+            boolean ok = true;
+            for (int i = 0; i < 26; i++) {
+                if (wordCount[i] > charCount[i]) {
                     ok = false;
                     break;
                 }
             }
 
+            // Step 4: good word, so add its length
             if (ok) {
                 result += word.length();
             }
