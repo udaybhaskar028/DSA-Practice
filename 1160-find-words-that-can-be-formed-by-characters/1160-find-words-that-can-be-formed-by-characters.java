@@ -1,37 +1,28 @@
 class Solution {
     public int countCharacters(String[] words, String chars) {
-        // Step 1: count letters in chars once
-        int[] charCount = new int[26];
-        for (char ch : chars.toCharArray()) {
-            int index = ch - 'a';
-            charCount[index]++;
+        int[] key = new int[26];
+
+        for(char ch: chars.toCharArray()){
+            int index = ch-'a';
+            key[index]++;
         }
 
-        int result = 0;
+        int result =0;
 
-        for (String word : words) {
-            // Step 2: count letters in this word
-            int[] wordCount = new int[26];
-            for (char ch : word.toCharArray()) {
-                int index = ch - 'a';
-                wordCount[index]++;
-            }
+        for( String word:words){
+            if(word.length() >chars.length())continue;
+            int[] keyclone = key.clone();
+            boolean ok=true;
 
-            // Step 3: check every letter: does the word need more than chars has?
-            boolean ok = true;
-            for (int i = 0; i < 26; i++) {
-                if (wordCount[i] > charCount[i]) {
-                    ok = false;
-                    break;
-                }
+            for(char ch : word.toCharArray()){
+                int index = ch -'a';
+                keyclone[index]--;
+                if(keyclone[index]<0) ok=false;
             }
+            if(ok)result+=word.length();
 
-            // Step 4: good word, so add its length
-            if (ok) {
-                result += word.length();
-            }
         }
-
         return result;
+        
     }
 }
