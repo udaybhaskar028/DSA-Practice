@@ -22,6 +22,7 @@ Daily DSA Practice
 | [0485-max-consecutive-ones](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0733-flood-fill](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0733-flood-fill) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/udaybhaskar028/DSA-Practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/udaybhaskar028/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -56,6 +57,7 @@ Daily DSA Practice
 | [0389-find-the-difference](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0567-permutation-in-string) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/udaybhaskar028/DSA-Practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -83,6 +85,7 @@ Daily DSA Practice
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0169-majority-element) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/udaybhaskar028/DSA-Practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -108,6 +111,7 @@ Daily DSA Practice
 | [0424-longest-repeating-character-replacement](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/udaybhaskar028/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/udaybhaskar028/DSA-Practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/udaybhaskar028/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
