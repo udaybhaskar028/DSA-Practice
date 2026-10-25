@@ -1,19 +1,32 @@
 class Solution {
     public String largestGoodInteger(String num) {
+        // Step 1: convert once, so each lookup is a plain array access
+        char[] digits = num.toCharArray();
+
+        // Step 2: no good digit found yet
         char maxD = ' ';
-        for(int i=0;i+2<num.length();i++){
-            if(num.charAt(i) == num.charAt(i+1) && num.charAt(i+1) == num.charAt(i+2)){
-                if(num.charAt(i)>maxD){
-                    maxD = num.charAt(i);
+
+        // Step 3: scan windows of 3
+        for (int i = 0; i + 2 < digits.length; i++) {
+            char d = digits[i];
+
+            if (d == digits[i + 1] && d == digits[i + 2] && d > maxD) {
+                maxD = d;
+
+                // Step 3a: '9' is the best possible, so stop searching
+                if (maxD == '9') {
+                    break;
                 }
             }
-            
         }
-        if(maxD == ' '){
-                return "";
-        }
-        String result =""+ maxD+maxD+maxD;
-        return result;
 
+        // Step 4: nothing found
+        if (maxD == ' ') {
+            return "";
+        }
+
+        // Step 5: build the answer
+        String result = "" + maxD + maxD + maxD;
+        return result;
     }
 }
