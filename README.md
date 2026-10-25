@@ -113,6 +113,7 @@ Daily DSA Practice
 | [1021-remove-outermost-parentheses](https://github.com/udaybhaskar028/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/udaybhaskar028/DSA-Practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/udaybhaskar028/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/udaybhaskar028/DSA-Practice/tree/master/2264-largest-3-same-digit-number-in-string) |
 ## Stack
 |  |
 | ------- |
