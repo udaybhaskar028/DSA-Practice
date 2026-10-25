@@ -29,6 +29,7 @@ Daily DSA Practice
 | ------- |
 | [0189-rotate-array](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0268-missing-number) |
+| [1688-count-of-matches-in-tournament](https://github.com/udaybhaskar028/DSA-Practice/tree/master/1688-count-of-matches-in-tournament) |
 | [1903-largest-odd-number-in-string](https://github.com/udaybhaskar028/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
@@ -94,6 +95,7 @@ Daily DSA Practice
 ## Simulation
 |  |
 | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/udaybhaskar028/DSA-Practice/tree/master/1688-count-of-matches-in-tournament) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/udaybhaskar028/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
