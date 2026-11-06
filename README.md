@@ -22,6 +22,7 @@ Daily DSA Practice
 | [0485-max-consecutive-ones](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0733-flood-fill](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/udaybhaskar028/DSA-Practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/udaybhaskar028/DSA-Practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/udaybhaskar028/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -172,6 +173,7 @@ Daily DSA Practice
 | [0463-island-perimeter](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0994-rotting-oranges) |
 ## Graph Theory
 |  |
 | ------- |
@@ -183,6 +185,7 @@ Daily DSA Practice
 | ------- |
 | [0463-island-perimeter](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/udaybhaskar028/DSA-Practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Topological Sort
 |  |
