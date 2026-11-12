@@ -22,6 +22,7 @@ Daily DSA Practice
 | [0485-max-consecutive-ones](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0733-flood-fill](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0733-flood-fill) |
+| [0989-add-to-array-form-of-integer](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0989-add-to-array-form-of-integer) |
 | [0994-rotting-oranges](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/udaybhaskar028/DSA-Practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/udaybhaskar028/DSA-Practice/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -31,6 +32,7 @@ Daily DSA Practice
 | ------- |
 | [0189-rotate-array](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0268-missing-number) |
+| [0989-add-to-array-form-of-integer](https://github.com/udaybhaskar028/DSA-Practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1688-count-of-matches-in-tournament](https://github.com/udaybhaskar028/DSA-Practice/tree/master/1688-count-of-matches-in-tournament) |
 | [1903-largest-odd-number-in-string](https://github.com/udaybhaskar028/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
